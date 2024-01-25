@@ -1,4 +1,3 @@
-# cs463-final-project
-The basic structure of our repositories will be compose of 1 file that runs CNN on the data and the accompanying data.
+This is a project of which, the goal is to be able to identifying alive or diseased plants using Convolutional Neural Network.
 
 Data source: https://github.com/spMohanty/PlantVillage-Dataset
